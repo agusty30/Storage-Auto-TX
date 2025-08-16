@@ -61,8 +61,8 @@ const EXPLORER_URL = 'https://chainscan-galileo.0g.ai/tx/';
 
 // Image sources for data to upload
 const IMAGE_SOURCES = [
-    { url: 'https://picsum.photos/800/600', responseType: 'arraybuffer' },
-    { url: 'https://loremflickr.com/800/600', responseType: 'arraybuffer' }
+    { url: 'https://picsum.photos/4500/3000', responseType: 'arraybuffer' },
+    { url: 'https://loremflickr.com/4500/3000/landscape', responseType: 'arraybuffer' }
 ];
 
 let privateKeys = [];
